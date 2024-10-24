@@ -1,0 +1,13 @@
+Git and Github
+
+Alternatives: AWS,Bit bucket,gitlab
+
+git.add >>> add the file to staging Alternatives(file is being tracked by git)
+
+git commit -m >>> to commit the changes in the tracked file
+
+git push origin main >>> pushing the file to the main branch Github Repository
+
+git add filename - to add specific file to the stage
+
+git add . >> to addd all untracked files
